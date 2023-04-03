@@ -6,6 +6,7 @@
 ![](https://qiniu.ztyang.com/img/20220630202720.png)
 
 
+
 # 360壁纸API
 
 1. 获取壁纸分类

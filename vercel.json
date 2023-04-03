@@ -1,0 +1,17 @@
+{
+    "rewrites": [
+      {
+        "source": "/360/(.*)", 
+        "destination": "/api/proxy" 
+      },
+      {
+        "source": "/360hot/(.*)", 
+        "destination": "/api/proxy" 
+      },
+      {
+        "source": "/search/(.*)", 
+        "destination": "/api/proxy" 
+      }
+    ]
+  }
+  
