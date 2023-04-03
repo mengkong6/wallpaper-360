@@ -1,8 +1,8 @@
 <template>
   <div class="footer">
       <div class="container">
-        <!-- <p class="c">Copyright © {{new Date().getFullYear()}} · 相左</p>
-        <div class="c">
+        <p class="c">Copyright © {{new Date().getFullYear()}} · PNGCOOL</p>
+        <!-- <div class="c">
             <a href="https://beian.miit.gov.cn/"><img src="@/assets/images/icp.png"><span></span></a>
         </div> -->
       </div>
@@ -20,7 +20,6 @@ export default {
 .footer{
   position: relative;
   text-align: center;
-  padding: 60px 0;
   .c {
     color: #fff;
     margin-top: 20px;

@@ -68,6 +68,8 @@ export default {
   min-height:100vh;
 }
 .affix {
+    background-color: #ffffff;
+    border-radius: 5px;
     width: 2.5rem;
     height: 2.5rem;
     position: fixed;
